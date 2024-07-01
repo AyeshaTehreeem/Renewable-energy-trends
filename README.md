@@ -1,4 +1,4 @@
-# Renewable Energy Trends Globally
+# Gobal Renewable Energy Trends 
 
 - Led a comprehensive analysis of 57 years of renewable energy data to uncover key insights and trends.
 - Analyzed the distribution of renewable energy share across different continents, highlighting regional variations and growth patterns.
